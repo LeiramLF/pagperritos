@@ -1,0 +1,45 @@
+body {
+    /* fondo de la pagina*/
+    background-color: #2f2f42;
+    /* color de letra*/
+    color: #efdfef;
+    /* tipo de letras*/
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,p{
+    color: #9d9ee1 ;
+}
+
+h2{
+    color: #e8c5e8;
+     /* tamaño de letra*/
+    font-size: 30px;
+}
+
+li, label{
+
+    color: #bb96ca;
+
+}
+
+img{
+    text-align: center;
+    /* ancho*/
+    width: 700px;
+    /* alto*/
+    height: 350px;
+    /* tipo de borde*/
+    border-style: solid;
+    /* ancho de borde*/
+    border-width: 10px;
+    /* color de borde*/
+    border-color: #e8c5e8;
+    /* separacion entre img y borde*/
+    padding: 10px;
+    margin: 10px;
+}
+
+a{
+    color: #e8c5e8;
+}
